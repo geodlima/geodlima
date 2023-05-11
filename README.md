@@ -11,6 +11,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=geodlima&icon=5&color=0)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

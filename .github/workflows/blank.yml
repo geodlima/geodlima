@@ -1,6 +1,6 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
+name: "generate-snake-game-from-github-contribution-grid"
+description: "Generates a snake game from a github user contributions grid. Output the animation as gif or svg"
+author: "platane"
 
 # Controls when the workflow will run
 on:
